@@ -8,7 +8,7 @@
 #include <time.h>
 using namespace std;
 
-const int RANGE = 10e7;
+const int RANGE = 10e6;
 const int DIM = 100;
 // Make the dataset
 void formData(vector<vector<int>> &v, vector<int> &q)
